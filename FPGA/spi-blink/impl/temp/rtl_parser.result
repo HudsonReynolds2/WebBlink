@@ -1,0 +1,36 @@
+[
+ {
+  "InstFile" : "C:/Users/hrbea/Desktop/motorController/github/T-FPGA/example/FPGA/spi-blink/src/spi-top.v",
+  "InstLine" : 2,
+  "InstName" : "spi_top",
+  "ModuleFile" : "C:/Users/hrbea/Desktop/motorController/github/T-FPGA/example/FPGA/spi-blink/src/spi-top.v",
+  "ModuleLine" : 2,
+  "ModuleName" : "spi_top",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/hrbea/Desktop/motorController/github/T-FPGA/example/FPGA/spi-blink/src/spi-top.v",
+    "InstLine" : 18,
+    "InstName" : "osc",
+    "ModuleFile" : "C:/Users/hrbea/Desktop/motorController/github/T-FPGA/example/FPGA/spi-blink/src/gowin_osc/gowin_osc.v",
+    "ModuleLine" : 9,
+    "ModuleName" : "Gowin_OSC"
+   },
+   {
+    "InstFile" : "C:/Users/hrbea/Desktop/motorController/github/T-FPGA/example/FPGA/spi-blink/src/spi-top.v",
+    "InstLine" : 19,
+    "InstName" : "pll",
+    "ModuleFile" : "C:/Users/hrbea/Desktop/motorController/github/T-FPGA/example/FPGA/spi-blink/src/gowin_pllvr/gowin_pllvr.v",
+    "ModuleLine" : 9,
+    "ModuleName" : "Gowin_PLLVR"
+   },
+   {
+    "InstFile" : "C:/Users/hrbea/Desktop/motorController/github/T-FPGA/example/FPGA/spi-blink/src/spi-top.v",
+    "InstLine" : 22,
+    "InstName" : "slave",
+    "ModuleFile" : "C:/Users/hrbea/Desktop/motorController/github/T-FPGA/example/FPGA/spi-blink/src/spi-slave.v",
+    "ModuleLine" : 5,
+    "ModuleName" : "spi_slaver"
+   }
+  ]
+ }
+]

@@ -1,0 +1,19 @@
+//Copyright (C)2014-2021 Gowin Semiconductor Corporation.
+//All rights reserved. 
+//File Title: Physical Constraints file
+//GOWIN Version: 1.9.8.01
+//Part Number: GW1NSR-LV4CQN48PC6/I5
+//Device: GW1NSR-4C
+//Created Time: Thu 02 23 17:03:36 2023
+
+IO_LOC "blink_pin" IOR15A;
+IO_PORT "blink_pin" IO_TYPE=LVCMOS25 PULL_MODE=NONE DRIVE=8;
+
+IO_LOC "cs"   39;
+IO_PORT "cs"   IO_TYPE=LVCMOS33 PULL_MODE=UP;
+IO_LOC "MOSI" 41;
+IO_PORT "MOSI" IO_TYPE=LVCMOS33 PULL_MODE=UP;
+IO_LOC "sck"  44;
+IO_PORT "sck"  IO_TYPE=LVCMOS33 PULL_MODE=UP;
+IO_LOC "MISO" 40;
+IO_PORT "MISO" IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8;

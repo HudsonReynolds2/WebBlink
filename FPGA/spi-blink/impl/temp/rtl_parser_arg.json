@@ -1,0 +1,29 @@
+{
+ "Device" : "GW1NSR-4C",
+ "Files" : [
+  {
+   "Path" : "C:/Users/hrbea/Desktop/motorController/github/T-FPGA/example/FPGA/spi-blink/src/gowin_osc/gowin_osc.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/hrbea/Desktop/motorController/github/T-FPGA/example/FPGA/spi-blink/src/gowin_pllvr/gowin_pllvr.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/hrbea/Desktop/motorController/github/T-FPGA/example/FPGA/spi-blink/src/spi-slave.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/hrbea/Desktop/motorController/github/T-FPGA/example/FPGA/spi-blink/src/spi-top.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Users/hrbea/Desktop/motorController/github/T-FPGA/example/FPGA/spi-blink/impl/temp/rtl_parser.result",
+ "Top" : "spi_top",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}
