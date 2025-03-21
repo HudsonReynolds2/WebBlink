@@ -9,7 +9,7 @@ This code was extended from the LilyGO blink example.
 ## Quick Start
 Follow the Arduino directions at the start of the README.md at this repo to upload the code from this repository: https://github.com/Xinyuan-LilyGO/T-FPGA/tree/main
 
-- Connect to both USB-C port from your computer. 
+- Connect to both USB-C ports from your computer. 
 - Upload the ESP32 code first so it can set the bank voltages for the FPGA.
     - The ESP32 project can be uploaded from Arduino IDE easily.
 - Then launch the GOWIN App and open the FPGA project.
