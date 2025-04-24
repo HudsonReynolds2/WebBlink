@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="pwm_sweep" Register="23" Alu="24" Lut="16" T_Register="23(23)" T_Alu="24(24)" T_Lut="16(16)"/>

@@ -1,0 +1,14 @@
+//Copyright (C)2014-2024 Gowin Semiconductor Corporation.
+//All rights reserved. 
+//File Title: Physical Constraints file
+//Tool Version: V1.9.11 (64-bit)
+//Part Number: GW1NSR-LV4CQN48PC6/I5
+//Device: GW1NSR-4C
+//Created Time: Wed 04 23 18:09:46 2025
+
+IO_LOC "servo_pwm" 22;
+IO_PORT "servo_pwm" IO_TYPE=LVCMOS18 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=1.8;
+IO_LOC "reset" 46;
+IO_PORT "reset" IO_TYPE=LVCMOS18 PULL_MODE=UP BANK_VCCIO=1.8;
+IO_LOC "clk_30MHz" 45;
+IO_PORT "clk_30MHz" IO_TYPE=LVCMOS18 PULL_MODE=UP BANK_VCCIO=1.8;

@@ -1,0 +1,29 @@
+{
+ "Device" : "GW1NSR-4C",
+ "Files" : [
+  {
+   "Path" : "C:/Users/xiang/Downloads/BU/RASTIC/pwm_generator/src/clk_div_30M_to_2k.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/xiang/Downloads/BU/RASTIC/pwm_generator/src/clk_divider.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/xiang/Downloads/BU/RASTIC/pwm_generator/src/pwm.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/xiang/Downloads/BU/RASTIC/pwm_generator/src/pwm_sweep.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Users/xiang/Downloads/BU/RASTIC/pwm_generator/impl/temp/rtl_parser.result",
+ "Top" : "pwm_sweep",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

@@ -1,0 +1,14 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW1NSR-4C" pn="GW1NSR-LV4CQN48PC6/I5">gw1nsr4c-000</Device>
+    <FileList>
+        <File path="src/clk_div_30M_to_2k.v" type="file.verilog" enable="1"/>
+        <File path="src/clk_divider.v" type="file.verilog" enable="1"/>
+        <File path="src/pwm.v" type="file.verilog" enable="1"/>
+        <File path="src/pwm_sweep.v" type="file.verilog" enable="1"/>
+        <File path="src/pwm_generator.cst" type="file.cst" enable="1"/>
+    </FileList>
+</Project>

@@ -1,0 +1,20 @@
+[
+ {
+  "InstFile" : "C:/Users/xiang/Downloads/BU/RASTIC/led_blinker/src/led_blinker.v",
+  "InstLine" : 1,
+  "InstName" : "led_blinker",
+  "ModuleFile" : "C:/Users/xiang/Downloads/BU/RASTIC/led_blinker/src/led_blinker.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "led_blinker",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/xiang/Downloads/BU/RASTIC/led_blinker/src/led_blinker.v",
+    "InstLine" : 10,
+    "InstName" : "i4",
+    "ModuleFile" : "C:/Users/xiang/Downloads/BU/RASTIC/led_blinker/src/clock_divider.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "clock_divider"
+   }
+  ]
+ }
+]

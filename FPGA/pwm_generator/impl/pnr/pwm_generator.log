@@ -1,0 +1,31 @@
+Reading netlist file: "C:\Users\xiang\Downloads\BU\RASTIC\pwm_generator\impl\gwsynthesis\pwm_generator.vg"
+Parsing netlist file "C:\Users\xiang\Downloads\BU\RASTIC\pwm_generator\impl\gwsynthesis\pwm_generator.vg" completed
+Processing netlist completed
+Reading constraint file: "C:\Users\xiang\Downloads\BU\RASTIC\pwm_generator\src\pwm_generator.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+WARN  (TA1132) :  'clk_30MHz' was determined to be a clock but was not created.
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+WARN  (PR1014) : Generic routing resource will be used to clock signal 'clk_30MHz_d' by the specified constraint. And then it may lead to the excessive delay or skew
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "C:\Users\xiang\Downloads\BU\RASTIC\pwm_generator\impl\pnr\pwm_generator.power.html" completed
+Generate file "C:\Users\xiang\Downloads\BU\RASTIC\pwm_generator\impl\pnr\pwm_generator.pin.html" completed
+Generate file "C:\Users\xiang\Downloads\BU\RASTIC\pwm_generator\impl\pnr\pwm_generator.rpt.html" completed
+Generate file "C:\Users\xiang\Downloads\BU\RASTIC\pwm_generator\impl\pnr\pwm_generator.rpt.txt" completed
+Generate file "C:\Users\xiang\Downloads\BU\RASTIC\pwm_generator\impl\pnr\pwm_generator.tr.html" completed
+Wed Apr 23 18:20:46 2025
+

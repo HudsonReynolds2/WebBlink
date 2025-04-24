@@ -1,0 +1,36 @@
+[
+ {
+  "InstFile" : "C:/Users/xiang/Downloads/BU/RASTIC/pwm_generator/src/clk_div_30M_to_2k.v",
+  "InstLine" : 1,
+  "InstName" : "clk_div_30M_to_2k",
+  "ModuleFile" : "C:/Users/xiang/Downloads/BU/RASTIC/pwm_generator/src/clk_div_30M_to_2k.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "clk_div_30M_to_2k"
+ },
+ {
+  "InstFile" : "C:/Users/xiang/Downloads/BU/RASTIC/pwm_generator/src/pwm.v",
+  "InstLine" : 5,
+  "InstName" : "pwm",
+  "ModuleFile" : "C:/Users/xiang/Downloads/BU/RASTIC/pwm_generator/src/pwm.v",
+  "ModuleLine" : 5,
+  "ModuleName" : "pwm",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/xiang/Downloads/BU/RASTIC/pwm_generator/src/pwm.v",
+    "InstLine" : 14,
+    "InstName" : "i4",
+    "ModuleFile" : "C:/Users/xiang/Downloads/BU/RASTIC/pwm_generator/src/clk_divider.v",
+    "ModuleLine" : 7,
+    "ModuleName" : "clk_divider"
+   }
+  ]
+ },
+ {
+  "InstFile" : "C:/Users/xiang/Downloads/BU/RASTIC/pwm_generator/src/pwm_sweep.v",
+  "InstLine" : 1,
+  "InstName" : "pwm_sweep",
+  "ModuleFile" : "C:/Users/xiang/Downloads/BU/RASTIC/pwm_generator/src/pwm_sweep.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "pwm_sweep"
+ }
+]

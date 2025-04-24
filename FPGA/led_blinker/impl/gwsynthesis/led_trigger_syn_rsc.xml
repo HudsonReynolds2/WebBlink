@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="led_blinker" Register="1" Lut="1" T_Register="27(1)" T_Lut="57(1)">
+ <SubModule name="i4" Register="26" Lut="56" T_Register="26(26)" T_Lut="56(56)"/>
+</Module>
