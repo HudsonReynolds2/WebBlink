@@ -1,7 +1,7 @@
 // Author: Xiang Jin
 module pwm_sweep (
     input wire clk_30MHz,
-    input wire reset,
+    input wire button,
     output reg servo_pwm
 );
 
@@ -15,13 +15,13 @@ module pwm_sweep (
     reg [19:0] pulse_width;
 
     always @(posedge clk_30MHz) begin
-        // Set the pulse width based on reset
-        if (reset)
+        // Set the pulse width based on button IOT13B
+        if (button)
             pulse_width <= PULSE_0_DEG;
         else
             pulse_width <= PULSE_180_DEG;
 
-        // PWM output
+        // PWM output on pin IOB22A
         if (pwm_counter < pulse_width)
             servo_pwm <= 1;
         else
