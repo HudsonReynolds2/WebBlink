@@ -1,18 +1,18 @@
 [
  {
-  "InstFile" : "C:/Users/xiang/Downloads/BU/RASTIC/led_blinker/src/led_blinker.v",
-  "InstLine" : 1,
+  "InstFile" : "C:/Users/xiang/Downloads/BU/RASTIC/WebBlink/FPGA/led_blinker/src/led_blinker.v",
+  "InstLine" : 2,
   "InstName" : "led_blinker",
-  "ModuleFile" : "C:/Users/xiang/Downloads/BU/RASTIC/led_blinker/src/led_blinker.v",
-  "ModuleLine" : 1,
+  "ModuleFile" : "C:/Users/xiang/Downloads/BU/RASTIC/WebBlink/FPGA/led_blinker/src/led_blinker.v",
+  "ModuleLine" : 2,
   "ModuleName" : "led_blinker",
   "SubInsts" : [
    {
-    "InstFile" : "C:/Users/xiang/Downloads/BU/RASTIC/led_blinker/src/led_blinker.v",
-    "InstLine" : 10,
+    "InstFile" : "C:/Users/xiang/Downloads/BU/RASTIC/WebBlink/FPGA/led_blinker/src/led_blinker.v",
+    "InstLine" : 11,
     "InstName" : "i4",
-    "ModuleFile" : "C:/Users/xiang/Downloads/BU/RASTIC/led_blinker/src/clock_divider.v",
-    "ModuleLine" : 1,
+    "ModuleFile" : "C:/Users/xiang/Downloads/BU/RASTIC/WebBlink/FPGA/led_blinker/src/clock_divider.v",
+    "ModuleLine" : 2,
     "ModuleName" : "clock_divider"
    }
   ]

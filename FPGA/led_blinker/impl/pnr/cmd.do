@@ -1,8 +1,8 @@
--d C:\Users\xiang\Downloads\BU\RASTIC\led_trigger\impl\gwsynthesis\led_trigger.vg
+-d C:\Users\xiang\Downloads\BU\RASTIC\WebBlink\FPGA\led_blinker\impl\gwsynthesis\led_trigger.vg
 -p GW1NSR-4C-QFN48P-6
 -pn GW1NSR-LV4CQN48PC6/I5
--cst C:\Users\xiang\Downloads\BU\RASTIC\led_trigger\src\led_trigger.cst
--cfg C:\Users\xiang\Downloads\BU\RASTIC\led_trigger\impl\pnr\device.cfg
+-cst C:\Users\xiang\Downloads\BU\RASTIC\WebBlink\FPGA\led_blinker\src\led_trigger.cst
+-cfg C:\Users\xiang\Downloads\BU\RASTIC\WebBlink\FPGA\led_blinker\impl\pnr\device.cfg
 -bit
 -tr
 -ph

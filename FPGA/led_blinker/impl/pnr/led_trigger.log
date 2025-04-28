@@ -1,7 +1,7 @@
-Reading netlist file: "C:\Users\xiang\Downloads\BU\RASTIC\led_trigger\impl\gwsynthesis\led_trigger.vg"
-Parsing netlist file "C:\Users\xiang\Downloads\BU\RASTIC\led_trigger\impl\gwsynthesis\led_trigger.vg" completed
+Reading netlist file: "C:\Users\xiang\Downloads\BU\RASTIC\WebBlink\FPGA\led_blinker\impl\gwsynthesis\led_trigger.vg"
+Parsing netlist file "C:\Users\xiang\Downloads\BU\RASTIC\WebBlink\FPGA\led_blinker\impl\gwsynthesis\led_trigger.vg" completed
 Processing netlist completed
-Reading constraint file: "C:\Users\xiang\Downloads\BU\RASTIC\led_trigger\src\led_trigger.cst"
+Reading constraint file: "C:\Users\xiang\Downloads\BU\RASTIC\WebBlink\FPGA\led_blinker\src\led_trigger.cst"
 Physical Constraint parsed completed
 Running placement......
 [10%] Placement Phase 0 completed
@@ -23,10 +23,10 @@ Bitstream generation in progress......
 Bitstream generation completed
 Running power analysis......
 [100%] Power analysis completed
-Generate file "C:\Users\xiang\Downloads\BU\RASTIC\led_trigger\impl\pnr\led_trigger.power.html" completed
-Generate file "C:\Users\xiang\Downloads\BU\RASTIC\led_trigger\impl\pnr\led_trigger.pin.html" completed
-Generate file "C:\Users\xiang\Downloads\BU\RASTIC\led_trigger\impl\pnr\led_trigger.rpt.html" completed
-Generate file "C:\Users\xiang\Downloads\BU\RASTIC\led_trigger\impl\pnr\led_trigger.rpt.txt" completed
-Generate file "C:\Users\xiang\Downloads\BU\RASTIC\led_trigger\impl\pnr\led_trigger.tr.html" completed
-Wed Apr 23 18:54:31 2025
+Generate file "C:\Users\xiang\Downloads\BU\RASTIC\WebBlink\FPGA\led_blinker\impl\pnr\led_trigger.power.html" completed
+Generate file "C:\Users\xiang\Downloads\BU\RASTIC\WebBlink\FPGA\led_blinker\impl\pnr\led_trigger.pin.html" completed
+Generate file "C:\Users\xiang\Downloads\BU\RASTIC\WebBlink\FPGA\led_blinker\impl\pnr\led_trigger.rpt.html" completed
+Generate file "C:\Users\xiang\Downloads\BU\RASTIC\WebBlink\FPGA\led_blinker\impl\pnr\led_trigger.rpt.txt" completed
+Generate file "C:\Users\xiang\Downloads\BU\RASTIC\WebBlink\FPGA\led_blinker\impl\pnr\led_trigger.tr.html" completed
+Mon Apr 28 17:26:08 2025
 

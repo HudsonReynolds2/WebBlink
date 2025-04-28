@@ -2,11 +2,11 @@
  "Device" : "GW1NSR-4C",
  "Files" : [
   {
-   "Path" : "C:/Users/xiang/Downloads/BU/RASTIC/led_blinker/src/clock_divider.v",
+   "Path" : "C:/Users/xiang/Downloads/BU/RASTIC/WebBlink/FPGA/led_blinker/src/clock_divider.v",
    "Type" : "verilog"
   },
   {
-   "Path" : "C:/Users/xiang/Downloads/BU/RASTIC/led_blinker/src/led_blinker.v",
+   "Path" : "C:/Users/xiang/Downloads/BU/RASTIC/WebBlink/FPGA/led_blinker/src/led_blinker.v",
    "Type" : "verilog"
   }
  ],
@@ -14,7 +14,7 @@
 
  ],
  "LoopLimit" : 2000,
- "ResultFile" : "C:/Users/xiang/Downloads/BU/RASTIC/led_blinker/impl/temp/rtl_parser.result",
+ "ResultFile" : "C:/Users/xiang/Downloads/BU/RASTIC/WebBlink/FPGA/led_blinker/impl/temp/rtl_parser.result",
  "Top" : "led_blinker",
  "VerilogStd" : "verilog_2001",
  "VhdlStd" : "vhdl_93"

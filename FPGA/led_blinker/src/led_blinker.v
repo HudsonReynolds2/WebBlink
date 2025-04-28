@@ -8,10 +8,10 @@ module led_blinker(
 
 wire divided_clk;
 
-clock_divider(clk, reset, divided_clk);
+clock_divider(clk, divided_clk);
 
-always @(posedge divided_clk or posedge reset) begin
-    if (reset)
+always @(posedge divided_clk) begin
+    if (!reset)
         led <= 0;
     else 
         led <= !led;
